@@ -1,8 +1,39 @@
+# ---------------------- Python ----------------------
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ---------------------- Jupyter ----------------------
+.ipynb_checkpoints
+*.ipynb_save
+
+# ---------------------- Virtual Environments ----------------------
+env/
 venv/
-.env
-*.pyc
+.venv/
+ENV/
+*.env
+
+# ---------------------- OS Files ----------------------
 .DS_Store
-data/*.csv
-.env*
+Thumbs.db
+
+# ---------------------- Logs & Cache ----------------------
+*.log
+*.tmp
+*.cache
+*.bak
+
+# ---------------------- Project Specific ----------------------
+# CSV / data files (keep only sample ones if needed)
+*.csv
+!books_titles.csv
+!books_price_rating.csv
+!books_full.csv
+
