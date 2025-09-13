@@ -21,4 +21,4 @@ Python, Requests, BeautifulSoup, Pandas
 - `books_full.csv` with columns: Title, Price, Rating
 
 ## License & Contact
-MIT · neerajchaurasiya
+MIT · neerajchaurasiya593@gmail.com
