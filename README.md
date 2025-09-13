@@ -1,6 +1,6 @@
 # Web Scraping — Books (Multi-page Scraper)
 
-## TL;DR
+## Highlights
 Multi-page web scraper for books.toscrape.com. Extracts title, price, rating and exports CSV.
 
 ## Tech Stack
